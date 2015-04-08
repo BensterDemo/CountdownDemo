@@ -1,0 +1,2 @@
+/Users/benster/Library/Developer/Xcode/DerivedData/CountdownViewDemo-gdheryxmvpninadnehyqkxpgdkjx/Build/Products/Debug-iphonesimulator/CountdownViewDemo.app
+
